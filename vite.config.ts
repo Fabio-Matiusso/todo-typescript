@@ -7,4 +7,5 @@ export default defineConfig({
   build: {
     outDir: "build", // Alterar a pasta de saída para 'build'
   },
+  base: "/todo-typescript/",
 });
